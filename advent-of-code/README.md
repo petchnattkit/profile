@@ -1,15 +1,10 @@
-# advent-of-code
+<h3> This repo contains solutions of the advert of code challenges group by year/day/part</h3>
+<h6> These solutions write in <code>Typescript</code>, <code>Bun</code></h6>
 
-To install dependencies:
+<h5>Any suggestions or comments are always welcome.</h5>
 
-```bash
-bun install
-```
+<h6>Useful link</h6>
 
-To run:
+[Advert of Code](https://adventofcode.com/)
 
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.0.12. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+[Bun](https://bun.sh/)
